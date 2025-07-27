@@ -7,3 +7,4 @@ This repository contains my successful solutions to various [LeetCode](https://l
 ## ✅ Solved Problems
 
 ### 1. Two Sum    
+### 2. Add Two Numbers 
