@@ -4,9 +4,9 @@ This repository contains my successful solutions to various [LeetCode](https://l
 
 ---
 
-## ✅ Solved Problems
+## ✅ Solved Problems (Using C#)
 
 ### 1. Two Sum    
 ### 2. Add Two Numbers 
 ### 3. Length Of Longest Substring
-
+### 6. Zigzag Conversion 
